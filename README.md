@@ -8,7 +8,7 @@ disclaimer : it's a quick little project that was coded in a single evening. It'
 # Files description
 | File name | Usage |
 | --------- | ----- |
-| [CE3E3V2_easter_rabbit.gcod](https://github.com/witabix33/easter_rabbit/blob/main/files/CE3E3V2_easter_rabbit.gcod) | This is a GCOD sliced file for Creality Ended 3 v2 3D printer. You may have a different 3D printer. Use the STL file instead to produce your own GCOD file |
+| CE3E3V2_easter_rabbit.gcod | This is a GCOD sliced file for Creality Ended 3 v2 3D printer. You may have a different 3D printer. Use the STL file instead to produce your own GCOD file |
 | [easter_rabbit.stl](https://github.com/witabix33/easter_rabbit/blob/main/files/easter_rabbit.stl) | This is a STL file that can be used as input for your slicer. |
 | easter_rabbit.scad | This is a SCAD (Open Scad) file that describes the model. This file should be adapted for your own needs. You may use Openscad software (link below). As the SCAD file imports a PNG file, you may use both files in the same directory. |
 | lapin.png | This is a PNG file (picture) that is imported in the open scad file. This file should be adapted for your own needs. You may use Openscad software (link below). As the SCAD file imports a PNG file, you may use both files in the same directory. |
