@@ -1,6 +1,8 @@
 # easter_rabbit
 [easter_rabbit](https://github.com/witabix33/easter_rabbit) is a little 3D-printed rabbit that can be planted in a flowerpot. The rabbit is based on a simple coloring drawing, modified to include a hole for the support foot. The foot can be a simple Chinese food chopstick.
 
+![easter_rabbit_x600](https://github.com/witabix33/easter_rabbit/images/aster_rabbit_x600.jpg)
+
 disclaimer : it's a quick little project that was coded in a single evening. It's not perfect. It should be used as a Proof Of Concept or when needing exactly this kind of 3D printed part.
 
 # Files description
