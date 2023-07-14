@@ -3,7 +3,7 @@ A simple 3D printed (openscad) easter rabbit to be planted in a flowerpot
 
 [easter_rabbit](https://github.com/witabix33/easter_rabbit) is a little 3D-printed rabbit that can be planted in a flowerpot. The rabbit is based on a simple coloring drawing, modified to include a hole for the support foot. The foot can be a simple Chinese food chopstick.
 
-disclaimer : it's a quick little project that was coded in a single evening. It'w not perfect.
+disclaimer : it's a quick little project that was coded in a single evening. It's not perfect. It should be used as a Proof Of Concept or when needing exactly this kind of 3D printed part.
 
 # Files description
 | File name | Usage |
@@ -12,7 +12,6 @@ disclaimer : it's a quick little project that was coded in a single evening. It'
 | easter_rabbit.stl | This is a STL file that can be used as input for your slicer. |
 | easter_rabbit.scad | This is a SCAD (Open Scad) file that describes the model. This file should be adapted for your own needs. You may use Openscad software (link below). As the SCAD file imports a PNG file, you may use both files in the same directory. |
 | lapin.png | This is a PNG file (picture) that is imported in the open scad file. This file should be adapted for your own needs. You may use Openscad software (link below). As the SCAD file imports a PNG file, you may use both files in the same directory. |
-| lapin.xcf | This is a XCF file (Gimp image file format) as source file from le PNG file. This file may be deleted in future releases, as it is not very usefull|
 
 # Changing parameters in SCAD file
 Reading and understanding OpenScad SCAD language is required to use this section.
