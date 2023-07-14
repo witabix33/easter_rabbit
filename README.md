@@ -1,15 +1,15 @@
 # easter_rabbit
 [easter_rabbit](https://github.com/witabix33/easter_rabbit) is a little 3D-printed rabbit that can be planted in a flowerpot. The rabbit is based on a simple coloring drawing, modified to include a hole for the support foot. The foot can be a simple Chinese food chopstick.
 
-![easter_rabbit x600 picture](https://github.com/witabix33/easter_rabbit/blob/import-basic-files/images/easter_rabbit_x600.jpg)
+![easter_rabbit as printed](https://github.com/witabix33/easter_rabbit/images/easter_rabbit_x200.jpg)
 
 disclaimer : it's a quick little project that was coded in a single evening. It's not perfect. It should be used as a Proof Of Concept or when needing exactly this kind of 3D printed part.
 
 # Files description
 | File name | Usage |
 | --------- | ----- |
-| CE3E3V2_easter_rabbit.gcod | This is a GCOD sliced file for Creality Ended 3 v2 3D printer. You may have a different 3D printer. Use the STL file instead to produce your own GCOD file |
-| easter_rabbit.stl | This is a STL file that can be used as input for your slicer. |
+| [CE3E3V2_easter_rabbit.gcod](https://github.com/witabix33/easter_rabbit/files/CE3E3V2_easter_rabbit.gcod) | This is a GCOD sliced file for Creality Ended 3 v2 3D printer. You may have a different 3D printer. Use the STL file instead to produce your own GCOD file |
+| [easter_rabbit.stl](https://github.com/witabix33/easter_rabbit/easter_rabbit.stl) | This is a STL file that can be used as input for your slicer. |
 | easter_rabbit.scad | This is a SCAD (Open Scad) file that describes the model. This file should be adapted for your own needs. You may use Openscad software (link below). As the SCAD file imports a PNG file, you may use both files in the same directory. |
 | lapin.png | This is a PNG file (picture) that is imported in the open scad file. This file should be adapted for your own needs. You may use Openscad software (link below). As the SCAD file imports a PNG file, you may use both files in the same directory. |
 
